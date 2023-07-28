@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Testimonials Form
+Plugin Name: Testimonials-Form
 Plugin URI: your-plugin-url
 Description: A plugin to collect and display user testimonials.
 Version: 1.0
